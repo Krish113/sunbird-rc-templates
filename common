@@ -41,8 +41,14 @@
         "name": "schema:Text"
       }
     },
-    "startedOn": {
-      "@id": "https://github.com/sunbird-specs/vc-specs#completedOn",
+    "startDate": {
+      "@id": "https://github.com/sunbird-specs/vc-specs#startDate",
+      "@context": {
+        "name": "schema:Text"
+      }
+    },
+    "endDate": {
+      "@id": "https://github.com/sunbird-specs/vc-specs#endDate",
       "@context": {
         "name": "schema:Text"
       }
